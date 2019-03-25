@@ -1,5 +1,3 @@
-import { AnyARecord } from "dns";
-
 export function Lesson_PrinAny() {
   const num: number = 10
   const str: string = "文字列"
