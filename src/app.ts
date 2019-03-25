@@ -1,6 +1,7 @@
-import { helloWorld } from './training/HelloWorld'
+// import { helloWorld } from './training/HelloWorld'
 
-/* Hello! World.を表示 */
-console.log('---- HelloWorld ----')
-helloWorld()
-console.log('------------------\n')
+// /* Hello! World.を表示 */
+// console.log('---- HelloWorld ----')
+// helloWorld()
+// console.log('------------------\n')
+console.log("Hello! world.");
