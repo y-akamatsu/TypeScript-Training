@@ -20,5 +20,4 @@ export function Lesson_AssociativeArray() {
   const items: any[] = [itemA, itemB]
   items.push(itemC)
   console.log(items)
-  
 }
