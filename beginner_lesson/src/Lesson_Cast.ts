@@ -19,4 +19,4 @@ export function Lesson_Cast() {
   }
 }
 
-class LessonCast1 {}
+class LessonCast1 { } //LessonCast1{}を宣言

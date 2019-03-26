@@ -4,8 +4,9 @@
 // import { Lesson_Optional } from './Lesson_Optional'
 // import { Lesson_Calc } from './Lesson_Calc'
 // import { Lesson_Array } from "./Lesson_Array"
-import { Lesson_AssociativeArray } from "./Lesson_AssociativeArray"
-import { Lesson_Cast } from "./Lesson_Cast"
+// import { Lesson_AssociativeArray } from "./Lesson_AssociativeArray"
+// import { Lesson_Cast } from "./Lesson_Cast"
+import { Lesson_Math } from "./Lesson_Math"
 
 // Lesson_LetConst()
 // Lesson_Function()
@@ -14,6 +15,6 @@ import { Lesson_Cast } from "./Lesson_Cast"
 // Lesson_Calc()
 // Lesson_Array()
 // Lesson_AssociativeArray()
-Lesson_Cast()
-
+// Lesson_Cast()
+Lesson_Math()
 
