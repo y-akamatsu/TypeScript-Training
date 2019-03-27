@@ -7,6 +7,7 @@
 // import { Lesson_AssociativeArray } from "./Lesson_AssociativeArray"
 // import { Lesson_Cast } from "./Lesson_Cast"
 import { Lesson_Math } from "./Lesson_Math"
+import { Lesson_Static } from "./Lesson_Static"
 
 // Lesson_LetConst()
 // Lesson_Function()
@@ -17,4 +18,5 @@ import { Lesson_Math } from "./Lesson_Math"
 // Lesson_AssociativeArray()
 // Lesson_Cast()
 Lesson_Math()
+Lesson_Static()
 
