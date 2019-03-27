@@ -35,5 +35,3 @@ class LessonStatic1 {
     LessonStatic1.count = count
   }
 }
-
-//staticの使用方法
