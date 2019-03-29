@@ -10,7 +10,8 @@
 // import { Lesson_Static } from "./Lesson_Static"
 // import { Lesson_Inheritance } from "./Lesson_inheritance"
 // import { Lesson_Interface } from "./Lesson_Interface"
-import { Lesson_Generics } from "./Lesson_Generics"
+// import { Lesson_Generics } from "./Lesson_Generics"
+import { Lesson_AsyncProcess } from "./Lesson_AsyncProcess"
 
 // Lesson_LetConst()
 // Lesson_Function()
@@ -24,5 +25,6 @@ import { Lesson_Generics } from "./Lesson_Generics"
 // Lesson_Static()
 // Lesson_Inheritance()
 // Lesson_Interface()
-Lesson_Generics()
+// Lesson_Generics()
+Lesson_AsyncProcess()
 
