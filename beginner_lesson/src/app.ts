@@ -8,7 +8,9 @@
 // import { Lesson_Cast } from "./Lesson_Cast"
 // import { Lesson_Math } from "./Lesson_Math"
 // import { Lesson_Static } from "./Lesson_Static"
-import { Lesson_Inheritance } from "./Lesson_inheritance"
+// import { Lesson_Inheritance } from "./Lesson_inheritance"
+// import { Lesson_Interface } from "./Lesson_Interface"
+import { Lesson_Generics } from "./Lesson_Generics"
 
 // Lesson_LetConst()
 // Lesson_Function()
@@ -20,5 +22,7 @@ import { Lesson_Inheritance } from "./Lesson_inheritance"
 // Lesson_Cast()
 // Lesson_Math()
 // Lesson_Static()
-Lesson_Inheritance()
+// Lesson_Inheritance()
+// Lesson_Interface()
+Lesson_Generics()
 
